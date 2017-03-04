@@ -11,7 +11,7 @@ git clone https://github.com/moonpi/SeahorseAdventures-FunnyBoat-RetroPie.git
 cd RetroPie-Extra/
 ./install-extras.sh
 ```
-Run the RetroPie Setup Script (seahorse will be in the experimental section)
+Run the RetroPie Setup Script (seahorse and funnyboat will be in the experimental section)
 ```
 cd
 cd RetroPie-Setup
